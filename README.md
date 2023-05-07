@@ -1,5 +1,5 @@
 # What do i do
-I make games, tools and similar stuff.
+I make games,mods,tools and other stuff.
 
 # Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TiredGui&theme=tokyonight&show_icons=true)
